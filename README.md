@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, quantum computing, and objective methods of understanding the universe.
 - 🌱 I’m currently working toward a Masters of Science at Notre Dame, focused on the commercialization of AI.
 - 💞️ I’m looking to collaborate on any automation that can have a meaningful impact on the world
-- 📫 Contact me: skelly26@nd.edu
+- 📫 Contact me: skelly240@gmail.com
 
 <!---
 spkell/spkell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
