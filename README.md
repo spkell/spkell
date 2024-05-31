@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sean Kelly, or better known as @spkell
+- 🌱 Head of Tech @ [Incite.ag](https://incite.ag)
 - 👀 I’m interested in machine learning, quantum computing, and objective methods of understanding the universe.
-- 🌱 I’m currently working toward a Masters of Science at Notre Dame, focused on the commercialization of AI.
 - 💞️ I’m looking to collaborate on any automation that can have a meaningful impact on the world
 - 📫 Contact me: sean@kellyenterprises.xyz
 
